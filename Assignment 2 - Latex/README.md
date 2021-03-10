@@ -2,12 +2,12 @@
 
 # Task 1
 
-Bachelor-thesis_requirements.pdf
-Bachelor-thesis_requirements.tex
-referencer.bib
+Bachelor-thesis_requirements.pdf <br />
+Bachelor-thesis_requirements.tex <br />
+referencer.bib <br /> 
 
 # Task 2
-Latex_cheatsheet.pdf
-cheatsheet.tex
-sample.bib
+Latex_cheatsheet.pdf <br />
+cheatsheet.tex <br />
+sample.bib <br />
 
